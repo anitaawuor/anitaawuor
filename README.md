@@ -2,7 +2,7 @@
 - 🤔 I'm a data analyst who enjoys documenting her learning journey.
 - 🌱 I’m currently learning Excel.
 - 👯 I’m open to collaborate on data analysis projects: volunteer or otherwise.
-- 📫 Let's connect on LinkedIn.
+- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/anita-awuor/).
 
 <!--
 **anitaawuor/anitaawuor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
